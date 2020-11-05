@@ -1,8 +1,0 @@
-Microsoft (R) Build Engine version 16.7.0+7fb82e5b2 for .NET
-Copyright (C) Microsoft Corporation. All rights reserved.
-
-  Determining projects to restore...
-  All projects are up-to-date for restore.
-  app -> C:\_git\dotnet-runtimelab-issue-283\bin\Debug\netcoreapp3.1\win10-x64\app.dll
-libcpmt.lib(nothrow.obj) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64' [C:\_git\dotnet-runtimelab-issue-283\app.csproj]
-C:\Users\Dragon\.nuget\packages\microsoft.dotnet.ilcompiler\6.0.0-alpha.1.20552.3\build\Microsoft.NETCore.Native.targets(334,5): error MSB3073: The command "link  @"obj\Debug\netcoreapp3.1\win10-x64\native\link.rsp"" exited with code 1112. [C:\_git\dotnet-runtimelab-issue-283\app.csproj]
